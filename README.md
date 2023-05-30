@@ -1,4 +1,4 @@
-The [vulnerable contract](https://bscscan.com/address/0x9cb928bf50ed220ac8f703bce35be5ce7f56c99c#code#L706) caused $127k loss on 20221012.
+The [vulnerable contract](https://bscscan.com/address/0x9cb928bf50ed220ac8f703bce35be5ce7f56c99c#code#L706) caused [$127k loss](https://twitter.com/lunaray_sec/status/1580499509435457536) on 20221012.
 
 MetaScan's AI Scan Engine at https://app.metatrust.io/project is able to detect this vulnerability:
 
